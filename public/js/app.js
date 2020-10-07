@@ -1,8 +1,3 @@
-// We will use the fetch API to make the http request from the client side javascript. 
-// It's a browser based API, it's not part of the JavaScript. It's not accessible from node.js. 
-
-
-
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const messageOne = document.querySelector("#message-1");
